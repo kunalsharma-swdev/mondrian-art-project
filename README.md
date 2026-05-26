@@ -2,7 +2,7 @@
 A simple recreation of Piet Mondrian-style abstract art using HTML and CSS Grid/Flexbox.
 
 
-<h1>PREVIEW</h1>
+<h1>Preview</h1>
 
 <p>This project creates a geometric art composition inspired by the works of Piet Mondrian using colored blocks, clean lines, and structured layouts.<p>
 
