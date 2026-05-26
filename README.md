@@ -14,11 +14,15 @@ A simple recreation of Piet Mondrian-style abstract art using HTML and CSS Grid/
     <li>Beginner-friendly project</li>
     <li>Inspired by modern abstract art</li>
 </ul>
+<br>
+<h1>Technologies Used</h1>
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+</ul>
 
 
 
 
 
-Technologies Used
-HTML5
-CSS3
+
